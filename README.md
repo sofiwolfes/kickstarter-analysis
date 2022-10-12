@@ -42,7 +42,7 @@ A possible callenge or difficulties that we could have encontered are...... and 
 
 - What can you conclude about the Outcomes based on Goals?
 
-![Outcomes based on Goals]()
+![Outcomes based on Goals](https://github.com/sofiwolfes/kickstarter-analysis/blob/main/Challenge/Resources/Outcomes_vs_Goals.png)
 
 - What are some limitations of this dataset?
         (((	There is a summary of the limitations of the dataset, and there is a recommendation for additional tables or graphs (2 pt).)))
