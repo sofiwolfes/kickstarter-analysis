@@ -38,7 +38,7 @@ A possible callenge or difficulties that we could have encontered are...... and 
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-![Outcomes based on Launch Date]()
+![Outcomes based on Launch Date](https://github.com/sofiwolfes/kickstarter-analysis/blob/main/Challenge/Resources/Theater_Outcomes_vs_Launch.png)
 
 - What can you conclude about the Outcomes based on Goals?
 
