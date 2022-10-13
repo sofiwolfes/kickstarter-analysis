@@ -1,4 +1,4 @@
-# Kickstarting with Excel
+# Kickstarting with Excel / Testing
 
 ## Overview of Project
 The dataset provided shows different kickstarter projects throughout multiple industries.
